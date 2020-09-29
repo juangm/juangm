@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- How to reach me: [:e-mail:](juangarciamarinblog@gmail.com)
+- How to reach me: [:e-mail:](mailto:juangarciamarinblog@gmail.com)
