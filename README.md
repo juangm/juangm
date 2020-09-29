@@ -1,4 +1,4 @@
-### Hi there 👋, I am Juan
+### Hi there 👋 , I am Juan
 
 I am a passionate QA Automation Engineer....
 
