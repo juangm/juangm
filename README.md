@@ -5,10 +5,12 @@
 🌟 Skills:
 
 - **Languages**: Typescript, Python, Golang
-- **Testing Frameworks**: Jest/Mocha, Cypress
-- **CI/CD Tools**: Jenkins, GitLab CI, CircleCI
-- **Automation Tools**: Puppeteer, PlayRight, Appium, XCUITest, Espresso
-- **DevOps**: Pipeline configuration, Docker, Kubernetes
+- **CI/CD Tools**: Github Actions, Jenkins, GitLab CI, CircleCI
+- **Web Automation Tools**: Cypress, Puppeteer, Playwright, Selenium
+- **Mobile Automation Tools**: XCUITest, Espresso, Appium
+- **Stress/Load Testing**: K6, Artillery, Gatling
+- **Web3 Testing**: backend testing and web3 automation
+- **DevOps**: AWS, Docker, Kubernetes
 
 💡 Committed to continuous learning and exploring new testing and DevOps methodologies.
 
