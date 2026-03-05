@@ -4,7 +4,7 @@
 
 🌟 Skills:
 
-- **Languages**: Typescript, Python, Golang
+- **Languages**: Typescript, Python
 - **CI/CD Tools**: Github Actions, Jenkins, GitLab CI, CircleCI
 - **Web Automation Tools**: Cypress, Puppeteer, Playwright, Selenium
 - **Mobile Automation Tools**: XCUITest, Espresso, Appium
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- How to reach me: [:e-mail:](mailto:juangarciamarinblog@gmail.com)
+- How to reach me: [:e-mail:](mailto:juan@qacode.xyz)
